@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../aboutme"
+		},
+		{
+			"path": "../../Week 2"
+		},
+		{
+			"path": "../../Week1"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"name": "site-plan-rafting",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WWT"
+	}
+}
