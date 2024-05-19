@@ -1,0 +1,88 @@
+
+
+
+#content {
+    max-width: 1025px;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+header {background-color: rgba(20,30,13,.7);
+    height: 100px ;
+}
+.logo {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+nav a {
+    color: bisque;
+    float: left;
+    margin-right: 60px;
+    margin-top: 75px;
+    margin-left: -50px;
+    font-size: 15px;
+}
+#background{
+    background-color: burlywood;
+    max-width: 1025px;
+    height: 500px;
+}
+
+.mountains{
+    width:600px;
+    margin-left: -420px;
+}
+.book {
+    background-color: burlywood;
+    width: 300px;
+}
+.msg {
+    background-color: rgba(20,30,13,.7);
+    margin-bottom: 15px;
+    color: white;
+    font-size: 12px;
+}
+.join{
+    color:yellow
+}
+#hero-msg h4
+
+.button-box
+
+main section
+
+body{background-color: #fbfbfb;
+}
+
+nav a:hover 
+    background-color black
+a {
+    text-align: center;
+    color: #ffff;
+    text-decoration: none;
+}
+
+footer p{
+    font-size: 10px;
+    background-color: rgba(20,30,13,.7);
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: left;
+    color: yellow;
+    text-decoration: underline;
+}
+footer a {
+    width: 50px;
+    color: yellow;
+    size: 20px;
+}
+.social{
+    display: flex;
+    justify-content: left;
+    max-width: 1025px;
+    height: 80px;
+    background-color: rgba(20,30,13,.7);
+}
